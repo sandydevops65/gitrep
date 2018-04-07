@@ -5,5 +5,10 @@ kirrak party
 na peru surya 34
 MLA
 MS Dhoni
+<<<<<<< HEAD
 na peru shiva
 awe
+=======
+awe
+bang bang
+>>>>>>> sandy
